@@ -1,23 +1,23 @@
 {
-	"Title": "Pop-up window does not dissappear until the date is not changed",
-	"Type": "Bug",
-	"Priority": "Low",
-	"Status": "Blocked",
-	"Author_CreatedBy": "Vasily Vasilkov",
-	"Severity": "",
-	"Build": "",
-	"Environment": ""
+	"Title":"Pop-up window does not dissappear until the date is not changed",
+	"Type":"Bug",
+	"Priority":"Low",
+	"Status":"Blocked",
+	"Author_CreatedBy":"Vasily Vasilkov",
+	"Severity":"",
+	"Build":"",
+	"Environment":""
 }
 {
-"Description": "Steps to reproduce" [
+"Description":"Steps to reproduce" [
 	{
-	 "Step1": "Select any dish",
-	 "Step2": "Go to the basket",
-	 "Step3": "Select a date next to the last delivery date in the menu",
-	 "Step4": "After the pop-up Delivery up to 14_11 appears, click on the Change a date button",
-	 "Step5": "Look at the pop-up"
+	 "Step1":"Select any dish",
+	 "Step2":"Go to the basket",
+	 "Step3":"Select a date next to the last delivery date in the menu",
+	 "Step4":"After the pop-up Delivery up to 14_11 appears, click on the Change a date button",
+	 "Step5":"Look at the pop-up"
 	}
 ],
-	"Expected result": "The pop-up Delivery up to 14_11 does not appear",
-	"Actual result": "The pop-up remains until the date is not chaged to the suitable one"
+	"Expected result":"The pop-up Delivery up to 14_11 does not appear",
+	"Actual result":"The pop-up remains until the date is not chaged to the suitable one"
 }
